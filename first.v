@@ -1,4 +1,5 @@
-module first();
-
-
-endmodulel;
+module moduleName (
+    ports
+);
+    
+endmodule
